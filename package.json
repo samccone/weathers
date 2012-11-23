@@ -6,6 +6,9 @@
   "directories": {
     "test": "test"
   },
+  "dependencies": {
+    "request": "~2.11.4"
+  },
   "scripts": {
     "test": ""
   },
