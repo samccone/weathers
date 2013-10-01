@@ -1,6 +1,6 @@
 {
   "name": "weathers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "get the weather",
   "main": "index.js",
   "directories": {
