@@ -16,7 +16,7 @@
 </pre>
 
 ###### Sample Response
-```json
+```js
 { operationalMode: '',
   srsName: 'WGS 1984',
   creationDate: '2013-10-01T06:51:22-04:00',
